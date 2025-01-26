@@ -1,6 +1,6 @@
 # Hi there, I'm Armaan <img width="35px" height="35" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-MEng Computer Science and Software Engineering Student @ the University of Birmingham, Dubai
+MEng Computer Science and Software Engineering Student @ the University of Birmingham Dubai
 
 <br>
 <div align="center">
@@ -138,11 +138,14 @@ MEng Computer Science and Software Engineering Student @ the University of Birmi
 ### GitHub Stats:
 <p align="center">
   <a href="https://github.com/InfinityDude007">
-    <img height="154px" src="https://github-readme-stats.vercel.app/api?username=InfinityDude007&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="154px" src="https://github-readme-streak-stats.herokuapp.com/?user=InfinityDude007&theme=shadow_blue&hide_border=true"/>
+    <img height="154px" src="https://github-readme-stats.vercel.app/api?username=InfinityDude007&show_icons=true&hide_title=true&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="154px" src="https://github-readme-streak-stats.herokuapp.com/?user=InfinityDude007&theme=shadow_blue&hide_border=true&hide_title=true"/>
   </a>
   <a href="https://github.com/InfinityDude007">
-    <img height="180px" src="https://github-contributor-stats.vercel.app/api?username=InfinityDude007&limit=5&theme=shadow_blue&hide_border=true&combine_all_yearly_contributions=true"/>
+    <img height=255 src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityDude007&bg_color=ffffff00&hide_border=true&color=207598&line=207598&point=11394b&area=true&area_color=207598&border_radius=24.5&title_color=343537&custom_title=Contribution%20Graph&border_radius=20px"/>
+  </a> 
+  <a href="https://github.com/InfinityDude007">
+    <img height="180px" src="https://github-contributor-stats.vercel.app/api?username=InfinityDude007&limit=5&theme=shadow_blue&hide_border=true&custom_title=Repository%20Stats&combine_all_yearly_contributions=true"/>
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityDude007&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)"/>
   </a>
 </p>
