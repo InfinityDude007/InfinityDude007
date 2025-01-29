@@ -15,14 +15,16 @@ MEng Computer Science and Software Engineering Student @ the University of Birmi
 <div align="center">
   <a target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white"/></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white"/></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/></a>
