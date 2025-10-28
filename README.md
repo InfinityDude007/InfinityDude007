@@ -12,7 +12,7 @@ MEng Computer Science and Software Engineering Student @ the University of Birmi
 <br>
 
 <details>
-  <summary><b>Tech Stack I'm familiar with</b></summary>
+  <summary><b>Tech Stack & Software I'm familiar with</b></summary>
   <br>
   <div align="center">
     <a target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/></a>
