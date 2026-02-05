@@ -65,7 +65,7 @@ MEng Computer Science and Software Engineering Student @ the University of Birmi
   <summary><b>My GitHub Stats</summary>
   <p align="center">
     <a href="https://git.io/streak-stats"><img height="154px" src="https://github-readme-streak-stats-lake-beta.vercel.app?user=InfinityDude007&theme=shadow-blue&hide_border=true" alt="GitHub Streak" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityDude007&theme=shadow_blue&hide_border=true&include_all_commits=true&layout=donut&count_private=true&langs_count=10"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180px" src="github-readme-stats-git-main-armaans-projects-4fb43f05.vercel.app/api/top-langs/?username=InfinityDude007&theme=shadow_blue&hide_border=true&include_all_commits=true&layout=donut&count_private=true&langs_count=10"/></a>
     <a href="https://github.com/InfinityDude007"><img height=255 src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityDude007&bg_color=ffffff00&hide_border=true&color=207598&line=207598&point=11394b&area=true&area_color=207598&border_radius=24.5&title_color=343537&custom_title=Contribution%20Graph&border_radius=20px"/></a> 
   </p>
 
